@@ -18,11 +18,13 @@ class Solution
 public:
     ListNode *rotateRight(ListNode *head, int k)
     {
-
+  if (!head || !head->next || k == 0)
+            return head;
+        
         int length = 1;
         ListNode *tail = head;
 
-        while (tail->next)
+        while (tail->next!=NULL)
         {
             tail = tail->next;
             length++;
@@ -72,3 +74,4 @@ int main()
 
     return 0;
 }
+

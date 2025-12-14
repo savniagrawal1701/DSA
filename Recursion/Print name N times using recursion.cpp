@@ -23,4 +23,5 @@ int main() {
     sol.printName(name, 0, N);
 
     return 0;
+
 }

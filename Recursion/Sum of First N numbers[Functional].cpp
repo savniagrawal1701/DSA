@@ -18,4 +18,5 @@ int main() {
     cout<<"The sum is:"<<sol.funcsum(3)<<endl;
    
     return 0;
+
 }

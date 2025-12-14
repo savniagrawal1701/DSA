@@ -23,4 +23,5 @@ int main() {
     sol.print1toN( N, N);
 
     return 0;
+
 }

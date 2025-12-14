@@ -17,4 +17,5 @@ int main() {
     cout << palindrome(0, s); 
     cout << endl;
     return 0;
+
 }

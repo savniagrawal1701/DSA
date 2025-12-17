@@ -21,4 +21,5 @@ int main(){
     
     cout<<"The decimal of the given binary no is "<<converttodecimal(n);
     return 0;
+
 }

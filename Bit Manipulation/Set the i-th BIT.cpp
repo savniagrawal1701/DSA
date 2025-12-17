@@ -18,4 +18,5 @@ int main() {
    cout<<"The number obtained by setting the "<<bitIndex<<"th bit is "<<sol.SETithBIT(num,bitIndex);
 
     return 0;
+
 }

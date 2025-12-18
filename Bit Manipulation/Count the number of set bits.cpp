@@ -24,4 +24,5 @@ int main() {
     cout << "The number of set bits is: " << result << endl;
 
     return 0;
+
 }

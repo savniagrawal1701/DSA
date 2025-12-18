@@ -16,4 +16,5 @@ int main() {
     cout<<"The number obtained by removing the rightmost set bit is "<<sol.removetheRIGHTMOSTsetbit(num);
 
     return 0;
+
 }

@@ -18,4 +18,5 @@ int main() {
    cout<<"The number obtained by Toggle the "<<bitIndex<<"th bit is "<<sol.TOGGLEithBIT(num,bitIndex);
 
     return 0;
+
 }

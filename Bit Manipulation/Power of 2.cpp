@@ -21,4 +21,5 @@ int main()
     cout << "The number " << num << "is power of 2 :" << sol.power_of_2(num);
 
     return 0;
+
 }

@@ -18,4 +18,5 @@ int main() {
     cout << "The XOR of numbers from " << n<<" is: " << ans;
     
     return 0;
+
 }

@@ -10,6 +10,7 @@ public:
             break;
         }
      }
+        if (j==-1) return ;
      for(int i=j+1;i<nums.size();i++){
         if(nums[i]!=0){
             swap(nums[i],nums[j]);
@@ -30,3 +31,4 @@ int main()
     cout << endl;
     return 0;
 }
+

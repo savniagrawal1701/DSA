@@ -63,7 +63,7 @@ void infixToPrefix(string s)
         st.pop();
     }
     reverse(result.begin(),result.end());
-    cout << "Postfix expression: " << result << endl;
+    cout << "Prefix expression: " << result << endl;
 }
 
 int main()
@@ -72,4 +72,5 @@ int main()
     cout << "Infix expression: " << exp << endl;
     infixToPrefix(exp);
     return 0;
+
 }

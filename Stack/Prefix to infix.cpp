@@ -31,8 +31,9 @@ string prefixToInfix(string postfix)
 
 int main()
 {
-    string postfix = "*+PQ-MN";
-    cout << "Infix Expression: " << prefixToInfix(postfix) << endl;
+    string prefix = "*+PQ-MN";
+    cout << "Infix Expression: " << prefixToInfix(prefix) << endl;
     return 0;
 
 }
+

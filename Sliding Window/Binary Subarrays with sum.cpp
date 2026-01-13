@@ -37,4 +37,5 @@ int main(){
     cout << "Number of subarrays with sum " << goal << " is: " << result << endl;
 
     return 0;
+
 }

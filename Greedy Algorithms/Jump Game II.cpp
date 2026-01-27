@@ -30,4 +30,5 @@ int main() {
     vector<int> arr = {2, 3, 1, 1, 4};
     cout << "Minimum jumps: " << minJumps(arr) << endl;
     return 0;
+
 }

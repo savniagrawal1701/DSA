@@ -35,4 +35,5 @@ int main() {
          << obj.countPlatforms(n, arr, dep) << endl;
 
     return 0;
+
 }

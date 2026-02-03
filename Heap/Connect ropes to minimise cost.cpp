@@ -45,4 +45,5 @@ int main() {
     cout << "Total minimum cost to connect ropes: " << minCost << endl;
 
     return 0;
+
 }

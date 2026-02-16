@@ -45,4 +45,5 @@ int main()
     int totalNodes = sol.countNodes(root);
     cout << "Total number of nodes in the Complete Binary Tree: " << totalNodes << endl;
     return 0;
+
 }

@@ -81,4 +81,5 @@ int main()
 
     cout << "Number of distinct substrings: " << sol.countDistinctSubstrings(s) << endl;
     return 0;
+
 }

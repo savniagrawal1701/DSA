@@ -1,4 +1,5 @@
 //the most optimal is the binary search one 
+//it is known as patience sorting algorithm.
 #include <bits/stdc++.h>
 using namespace std;
 
